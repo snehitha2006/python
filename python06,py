@@ -1,0 +1,6 @@
+import sys
+age=45
+print(" value of age=",age)
+print(type(age))
+print(hex(id(age)))
+print("size=",sys get size of (age))
