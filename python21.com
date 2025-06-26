@@ -8,7 +8,7 @@ bar=True
 print("----------")
 print("\t book details")
 print("----------")
-print("code="'bcode)
+print("code=",bcode)
 print("number=",bno)
 print("name=",bname)
 print("price=",bprice)
